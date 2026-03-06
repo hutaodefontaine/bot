@@ -1,0 +1,35 @@
+{
+  "120363404289820403@g.us": {
+    "48125494435928@lid": {
+      "saldo": 999900,
+      "history": [
+        {
+          "type": "tambah",
+          "nominal": 1000000,
+          "alasan": "judi",
+          "sisa": 1000000,
+          "waktu": "28/9/2025, 20.58.40"
+        },
+        {
+          "type": "kurang",
+          "nominal": 100,
+          "alasan": "Tanpa alasan",
+          "sisa": 999900,
+          "waktu": "28/9/2025, 21.11.12"
+        }
+      ]
+    },
+    "5961431421128@lid": {
+      "saldo": 10000,
+      "history": [
+        {
+          "type": "tambah",
+          "nominal": 10000,
+          "alasan": "Tanpa alasan",
+          "sisa": 10000,
+          "waktu": "28/9/2025, 20.58.06"
+        }
+      ]
+    }
+  }
+}

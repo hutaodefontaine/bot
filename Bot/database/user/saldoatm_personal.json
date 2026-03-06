@@ -1,0 +1,48 @@
+{
+  "6285749702604@s.whatsapp.net": {
+    "saldo": 0,
+    "history": [
+      {
+        "type": "+",
+        "nominal": 100000,
+        "alasan": "Tanpa alasan",
+        "sisa": 100000,
+        "waktu": "28/9/2025, 22.52.26"
+      },
+      {
+        "type": "-",
+        "nominal": 100000,
+        "alasan": "Tanpa alasan",
+        "sisa": 0,
+        "waktu": "28/9/2025, 22.52.36"
+      }
+    ]
+  },
+  "6281252991799@s.whatsapp.net": {
+    "saldo": 0,
+    "history": []
+  },
+  "153047669985479@lid": {
+    "saldo": 0,
+    "history": []
+  },
+  "48125494435928@lid": {
+    "saldo": 292000,
+    "history": [
+      {
+        "type": "+",
+        "nominal": 150000,
+        "alasan": "sisa",
+        "sisa": 296000,
+        "waktu": "24/2/2026, 08.20.29"
+      },
+      {
+        "type": "-",
+        "nominal": 4000,
+        "alasan": "es teh",
+        "sisa": 292000,
+        "waktu": "24/2/2026, 08.20.35"
+      }
+    ]
+  }
+}

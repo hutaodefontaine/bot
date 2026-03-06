@@ -1,0 +1,46 @@
+{
+  "6281252991799@s.whatsapp.net": {
+    "saldo": 50000,
+    "history": [
+      {
+        "type": "tambah",
+        "nominal": 10000,
+        "alasan": "Tanpa alasan",
+        "sisa": 10000,
+        "waktu": "25/9/2025, 08.24.14"
+      },
+      {
+        "type": "tambah",
+        "nominal": 10000,
+        "alasan": "nemu jir",
+        "sisa": 20000,
+        "waktu": "25/9/2025, 08.25.24"
+      },
+      {
+        "type": "kurang",
+        "nominal": 20000,
+        "alasan": "hilang jir",
+        "sisa": 0,
+        "waktu": "25/9/2025, 08.25.45"
+      },
+      {
+        "type": "tambah",
+        "nominal": 250000,
+        "alasan": "Tanpa alasan",
+        "sisa": 250000,
+        "waktu": "28/9/2025, 22.08.47"
+      },
+      {
+        "type": "kurang",
+        "nominal": 200000,
+        "alasan": "jajan dikt",
+        "sisa": 50000,
+        "waktu": "28/9/2025, 22.09.07"
+      }
+    ]
+  },
+  "6287780701243@s.whatsapp.net": {
+    "saldo": 0,
+    "history": []
+  }
+}
